@@ -1,0 +1,3 @@
+name: SpudJoinSpawn
+main: rocks.spud.server.joinspawn.JoinSpawnPlugin
+version: ${project.version}
